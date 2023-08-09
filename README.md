@@ -1,4 +1,4 @@
-# vercel-reverse-proxy
+# vercel-openai-proxy
 
 本项目是vercel反向代理，用于代理OPENAI
 
